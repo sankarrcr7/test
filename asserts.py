@@ -1,13 +1,13 @@
 # assert condition, error_message
 
 
-# x = 9
+x = 9
 
-# if x <= 10:
-#     print("x is not greater than 10")
-#     assert x > 10, "x should be greater than 10"
+if x <= 10:
+    print("x is not greater than 10")
+    assert x > 10, "x should be greater than 10"
 
-# print("Assertion passed")
+print("Assertion passed")
 
 
 def divide (a,b):
