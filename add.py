@@ -4,4 +4,4 @@ def add(*nums):
         result += num
     return result
 
-print(add(1,3))
+print(add(1,6))
