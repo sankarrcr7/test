@@ -37,7 +37,7 @@ a=1
 b=5
 while True:
    while b>0:
-       print("*"*a)
+       print("*%"*a)
        a+=1
        b-=1
 
